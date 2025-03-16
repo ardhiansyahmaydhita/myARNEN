@@ -1,0 +1,11 @@
+ galeri-ARNEN/
+ ├── index.html  ✅ (Halaman utama)
+ ├── 📂 images/  ✅ (Folder untuk gambar)
+ │     ├── akuuuu_kamuuu.jpg
+ │     ├── 1.jpg
+ │     ├── 2.jpg
+ │     ├── 3.jpg
+ │     ├── 4.jpg
+ ├── 📂 videos/  ✅ (Folder untuk video)
+ │     ├── vidio1.mp4
+ │     ├── vidio2.mp4
